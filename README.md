@@ -1,3 +1,1 @@
 ![CodeLiber Certificate](https://img.shields.io/badge/CodeLiber-Certificate-blue?style=flat&logo=github&link=https://codeliber.com/certificates/m9ysly9q9oduq)
-
-![Certificate](https://media-hosting.imagekit.io/dcdf7734331440a8/download.png?Expires=1840360191&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=JhSkSsdjSLvCH9d6vB~pGHpOuXnK3rRKfhYpPbvpuPfATgYjWlbJyiCpK8ys~YF3LekL83ertga~-ArHelf9JTVIrt5qUeBhLbzq-voUzZYgjx6P2i4D6j2vnEHIlAfR8UHsiJrsmZlny~dhCfQaL33MbZl4BywvcXgrox~Q-InqBWRZGigXWE7j4-r3LjpjO50NKenpDB7lOujsQsG2J6u5HJMYoj0tZSl6dJJECr-9bnbxeeGsTLz7173PRTUDiBTUyTx2hjNqHCDjsqN4xY2q4oPRDqzbvlDD1HfgnrTCrAMmvgQCdgMy6Yxy5ufCu71ah-4dVaVmCoRK3gwMHA__)
